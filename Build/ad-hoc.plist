@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>uploadSymbols</key>
+	<true/>
+	<key>method</key>
+	<string>ad-hoc</string>
+	<key>teamID</key>
+	<string>9QZ8T7G56W</string>
+	<key>compileBitcode</key>
+	<true/>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.dahuaoversea.easy4ip</key>
+		<string>overseaEasy4ipDis</string>
+		<key>com.dahuaoversea.easy4ip.watchkitapp</key>
+		<string>Easy4ip_appWatchKitDis</string>
+		<key>com.dahuaoversea.easy4ip.watchkitapp.watchkitextension</key>
+		<string>Easy4ip_appWatchExtensionDis</string>
+		<key>com.dahuaoversea.easy4ip.MediaNotificationService</key>
+		<string>Easy4ipNotificationServiceExtensionDis</string>
+		<key>com.dahuaoversea.easy4ip.MediaNotificationContent</key>
+		<string>Easy4ipNotificationContentExtensionDis</string>
+	</dict>
+</dict>
+</plist>
